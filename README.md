@@ -1,2 +1,2 @@
 # Presentacion
-Ingeniero industrial y estudiante de maestria en ingenieria 
+Ingeniero industrial y estudiante de maestría en ingeniería 
